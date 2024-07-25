@@ -1,0 +1,27 @@
+{
+  "name": "atm_bysufyan",
+  "version": "1.1.0",
+  "description": "This cosole interactive atm machine is develped by using typescritp and node.js",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "./atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ATM",
+    "Machine"
+  ],
+  "author": "Muhammad Sufyan",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  }
+}
