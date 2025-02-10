@@ -1,0 +1,12 @@
+[submodule "CALCULATOR_CLI"]
+	path = CALCULATOR_CLI
+	url = https://github.com/Sufyan0fficial/CALCULATOR_TS
+[submodule "Number-Guessing-Game"]
+	path = Number-Guessing-Game
+	url = https://github.com/Sufyan0fficial/Number-Guessing-Game_TS
+[submodule "ATM"]
+	path = ATM
+	url = https://github.com/Sufyan0fficial/ATM_TS
+[submodule "TODO-APP"]
+	path = TODO-APP
+	url = https://github.com/Sufyan0fficial/Todo-App_TS

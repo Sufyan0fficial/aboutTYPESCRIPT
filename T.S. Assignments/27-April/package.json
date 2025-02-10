@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "name": "27-april",
+  "version": "1.0.0",
+  "description": "TypeScript Fundamental Assignment ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Sufyan",
+  "license": "ISC"
+}
